@@ -47,23 +47,23 @@
 
 <section>
     <h2>Sobre o aluno</h2>
-    <p>Nome: COLOQUE SEU NOME AQUI</p>
-    <p>Turma: COLOQUE SUA TURMA</p>
-    <p>Data: COLOQUE A DATA</p>
+    <p>Nome: João Vitor M. de Assis</p>
+    <p>Turma: 301</p>
+    <p>Data: 26/02/2026</p>
 </section>
 
 <section>
     <h2>Meus interesses</h2>
     <ul>
-        <li>Interesse 1</li>
-        <li>Interesse 2</li>
-        <li>Interesse 3</li>
+        <li>Filosofia</li>
+        <li>Cristo</li>
+        <li>Programação</li>
     </ul>
 </section>
 
 <section>
     <h2>Imagem</h2>
-    <img src="https://via.placeholder.com/200">
+    <img src="">
 </section>
 
 <section>
