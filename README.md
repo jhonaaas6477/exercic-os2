@@ -3,32 +3,27 @@ l<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <title>Atividade 2 - Laboratório Web</title>
-    
     <style>
         body {
             font-family: Arial;
             background-color: lightgray;
             margin: 0;
         }
-
         header {
             background-color: darkblue;
             color: white;
             text-align: center;
             padding: 15px;
         }
-
         main {
             padding: 20px;
         }
-
         section {
             background-color: white;
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
         }
-
         button {
             background-color: blue;
             color: white;
@@ -36,15 +31,15 @@ l<!DOCTYPE html>
             padding: 10px;
             cursor: pointer;
         }
-
         button:hover {
             background-color: darkblue;
         }
     </style>
-
+    
 </head>
-<body>
 
+<body>
+    
 <header>
     <h1>Atividade 2 - Laboratório Web</h1>
 </header>
